@@ -1,6 +1,6 @@
 # CP372 – Multi-Service Converter Server
 
-**by:** Harjeet Singh (169092409)  |  Augustus (169105552)
+**by:** Harjeet Singh (169092409)  |  Augustus Vennam (169105552)
 
 ### Programming Language
 Python 3 (standard library only: `socket`, `threading`).
